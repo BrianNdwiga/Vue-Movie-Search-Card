@@ -2,7 +2,7 @@ Vue-Movie-Search-Card
 
 How To Run
 
-git clone https://github.com/BrianNdwiga/RESTAPI-blogs-expressJS or Download from https://github.com/BrianNdwiga/RESTAPI-blogs-expressJS
+git clone https://github.com/BrianNdwiga/Vue-Movie-Search-Card Download from https://github.com/BrianNdwiga/Vue-Movie-Search-Card
 
 Run the Index.html file.
 
