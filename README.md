@@ -4,7 +4,7 @@ How To Run
 
 git clone https://github.com/BrianNdwiga/Vue-Movie-Search-Card Download from https://github.com/BrianNdwiga/Vue-Movie-Search-Card
 
-Run the Index.html file.
+Run(Click) the Index.html file or Run Liveserver from VsCode.
 
 Home Page
 ![Home](https://user-images.githubusercontent.com/67043559/123598338-10979780-d7fd-11eb-93de-701c440be4f2.png)
